@@ -118,11 +118,16 @@ This toggle is in the margin!
 
 ::::{card} Card Title
 :class-card: sd-border-0
+
+:::{card-header}
 Card header.
-^^^
+:::
+
 Card content goes here. This demonstrates how cards look in both light and dark modes.
-+++
+
+:::{card-footer}
 Card footer.
+:::
 ::::
 
 **Dropdown:**
